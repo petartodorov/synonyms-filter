@@ -52,7 +52,7 @@ The fastText python wrapper needs to be installed this way. You can go to its gi
 
 ### Example Notebook
 
-An example notebook is available [here](example_notebook.ipynb)
+An example notebook is available [here](example_notebook.ipynb) or [here](https://nbviewer.jupyter.org/github/recitalAI/synonyms-filter/blob/master/example_notebook.ipynb) if Github does not render it correctly. 
 
 
 # Licence
